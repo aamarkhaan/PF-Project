@@ -1,3 +1,3 @@
-101 Amar 19 998 03341111111 amar@gmail.com
-102 Bilal 20 997 03312222222 bilal@gmail.com
-103 Raaed 21 996 02245999999 raaed@gmail.com
+101 Amar khan 19 149 03340000000 amar@gmail.com
+102 Raaed khan 21 169 03331111111 raaed@gmail.com
+103 Ali Ibrahim 20 154 032355555555 ali@gmail.com
